@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Marvel', sans-serif;
+}
+h1 {
+    font-weight:700;
+}
+:root {
+    --primary-color: #395E96;
+    --secondary-color: #C04476;
+}
+
